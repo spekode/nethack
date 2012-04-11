@@ -1,0 +1,14 @@
+# Jeff's nethackrc (quickie version)
+
+OPTIONS=color,time,showexp,number_pad,autopickup,pickup_types:$
+OPTIONS=dogname:Jinx,catname:Charlie,hilite_pet
+OPTIONS=fruit:pearfruit
+OPTIONS=boulder:0
+
+# Menucolors patch
+OPTIONS=menucolors
+MENUCOLOR="* blessed *"=green 
+MENUCOLOR="* holy *"=green 
+MENUCOLOR="* cursed *"=red 
+MENUCOLOR="* unholy *"=red 
+MENUCOLOR="* cursed * (being worn)"=orange&underline 
