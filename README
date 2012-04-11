@@ -4,6 +4,6 @@ already applied:
 nh343-acid-C343-179.diff -- fixes bugs with dropping acid
 nh343-menucolor.diff -- adds color to menus (B/C/U)
 hpmon.diff -- adds color to your HP status
-
+adjsplit.diff -- #adjust can take a count
 
 This is only the TTY version as that is the version I play.
