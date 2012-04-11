@@ -9,6 +9,7 @@
  * Patch-enabling defines
  */
 #define HPMON
+#define ADJSPLIT
 
 /*
  * Section 1:	Operating and window systems selection.
